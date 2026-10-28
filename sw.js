@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pediatric-assessment-v1';
+const CACHE_NAME = 'pediatric-assessment-v2';
 const ASSETS = [
   './',
   './index.html',
